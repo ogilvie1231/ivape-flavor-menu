@@ -1,12 +1,20 @@
 .menu {
-    max-width: 95%;
-    margin: 2%;
+  max-width: 95%;
+  display: block;
+  margin: auto;
+  margin-top: 2%;
 }
 
-h1 {
-    text-align: center;
+.introText {
+  text-align: center;
+  font-family: 'Lora', serif;
+  padding-top: 4%;
+  font-size: 10vw;
+  /* background-color: rgb(145, 3, 3); */
+  max-width: 95%;
+  margin: auto;
 }
 
 body {
-    background-color: rgb(236, 236, 236) !important;
+  background-color: rgb(236, 236, 236) !important;
 }
