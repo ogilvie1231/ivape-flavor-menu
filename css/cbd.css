@@ -1,0 +1,27 @@
+.introText {
+  text-align: center;
+  font-family: "Lora", serif;
+  padding-top: 4%;
+  font-size: 10vw;
+  /* background-color: rgb(145, 3, 3); */
+  max-width: 95%;
+  margin: auto;
+}
+
+body {
+  /* background-color: rgb(102, 102, 102) !important; */
+  background-image: url(../assets/img/cbd-background/2.JPG);
+  background-attachment:fixed;
+ 
+
+  /* position: absolute; */
+  /* background-image: url(../assets/img/cbd-background/2.JPG); */
+}
+
+img {
+  max-width: 90%;
+  margin: auto;
+  display: block;
+  margin-bottom: 2%;
+  opacity: 80%;
+}

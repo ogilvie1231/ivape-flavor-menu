@@ -18,3 +18,10 @@
 body {
   background-color: rgb(236, 236, 236) !important;
 }
+
+img {
+  max-width: 90%;
+  margin: auto;
+  display: block;
+  margin-bottom: 2%;
+}
